@@ -38,8 +38,8 @@ Ensure you have the following installed on your machine:
 Clone the project and navigate into the directory:
 
 ```bash
-git clone https://github.com/your-repo/fs-remotion4.git
-cd fs-remotion4
+git clone https://github.com/sarfarazh/fs-remotion-local
+cd fs-remotion-local
 ```
 
 Install the project dependencies:
@@ -57,7 +57,7 @@ yarn install
 ### File Structure
 
 ```
-/fs-remotion4
+/fs-remotion-local
 │
 ├── /public
 │   ├── transcription.json              # Transcription data for subtitles
